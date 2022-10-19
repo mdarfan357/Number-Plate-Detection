@@ -5,7 +5,7 @@ the following [notebook](https://colab.research.google.com/drive/1fh6fEAa5jyBRKH
 ## Why?
 This is done inorder to automate many task where previously a person had to be hired to monitor the security on roads. Also computers are good at processing large amounts of data and do something with it.
 
-## Uses:
+## Where?
 This technology can be used to create better security systems.
 Also this is being used by traffic polices in Indian to catch speeding cars that are above the speed limit.
 Police Stations use number plates to track where a suspicious vehicle has been too and where it will go next in order to track down criminals escaping.
